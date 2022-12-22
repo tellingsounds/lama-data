@@ -1,4 +1,4 @@
-# LAMA Data (Capturing Entities (Persons, Topics, Music, etc.) in Austrian audio(-visual) archive material)
+# LAMA Data - Capturing Entities (Persons, Topics, Music, etc.) in Austrian audio(-visual) archive material
 
 ## About the _Telling Sounds_ project and the LAMA app
 
@@ -19,7 +19,7 @@ Objects/documents are referenced by their ID, so if an Annotation references a C
 ## How to cite this
 
 This data set is published under CC0, so we waive all rights, but if you use this data set we would appreciate attribution, using the follwing citation:
-Basaran et. al., *Capturing Entities (Persons, Topics, Music, etc.) in Austrian audio(-visual) archive material*[data file and schemas], 2022, DOI/LINK.
+Basaran et. al., *LAMA Data - Capturing Entities (Persons, Topics, Music, etc.) in Austrian audio(-visual) archive material*[data file and schemas], 2022, DOI/LINK.
 
 Data Contributors: Aylin Basaran, Elias Berner, Theresa Czerny, Paul Gulewycz, Neva Klanjscek, Julia Jaklin, Birgit Michlmayr, Matej Santi, Dimitri Smirnov, Cornelia Szabo-Knotik, Meike Wilfing-Albrecht
 
