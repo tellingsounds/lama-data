@@ -16,6 +16,16 @@ Annotations can be grouped either by the sub-element of a clip (Music, Speech et
 The provided JSON file basically contains  an export of the MongoDB collections from LAMA (`annotations`, `clips`, `elements`, `entities`, `segments`).
 Objects/documents are referenced by their ID, so if an Annotation references a Clip and an Entity you can find them by ID in their respective collections.
 
+## How to cite this
+
+This data set is published under CC0, so we waive all rights, but if you use this data set we would appreciate attribution, using the follwing citation:
+Basaran et. al., *LAMA Data entries...*[data file and schemas], 2022, DOI/LINK.
+
+Data Contributors: Aylin Basaran, Elias Berner, Theresa Czerny, Paul Gulewycz, Neva Klanjscek, Julia Jaklin, Birgit Michlmayr, Matej Santi, Dimitri Smirnov, Cornelia Szabo-Knotik, Meike Wilfing-Albrecht
+
+
+
+
 ## Schemas
 
 ### Annotation
